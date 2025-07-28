@@ -1,0 +1,27 @@
+{
+  "name": "mern_stack",
+  "version": "0.1.0",
+  "description": "Mern Stack Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarooz71/MERN_Stack.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "MERN"
+  ],
+  "author": "Saroj lama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarooz71/MERN_Stack/issues"
+  },
+  "homepage": "https://github.com/Sarooz71/MERN_Stack#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
