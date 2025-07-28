@@ -36,4 +36,14 @@
 - Single threaded event driven architecture
 - Non blocking I/O Program
 
-///
+## Day 17 || Modules
+// Methods
+1. Read
+2. Write
+3. Updates
+4. Delete
+
+- We handles file system from two ways
+1. Synchronusly
+2. Asynchronusly
+
