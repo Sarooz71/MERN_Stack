@@ -43,7 +43,14 @@
 3. Updates
 4. Delete
 
+- Modules 
+1. File system modules
+2. Paths
+3. OS modules 
+4. Http 
+
 - We handles file system from two ways
 1. Synchronusly
 2. Asynchronusly
+
 
