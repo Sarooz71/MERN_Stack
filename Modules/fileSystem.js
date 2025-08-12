@@ -9,12 +9,15 @@ import fs, { appendFileSync } from "fs";
 //read - Image
 
 // const image = fs.readFileSync("mamaVanja.jpg" , "base64");
-
 // console.log(image);
 
- 
 //Write
 fs.writeFileSync("myFile.txt", "This file is newly created.");
 
-fs,appendFileSync("myfile.txt", "Ok lets update a file in this directory!!")
+//update
+fs.appendFileSync("myfile.txt", "Ok lets update a file in this directory!!");
+fs.appendFileSync("myfile.txt", "\n Ok lets update a file in this directory!!");
+
+//Delete
+fs.unlinkSync("myFile.txt");
 
