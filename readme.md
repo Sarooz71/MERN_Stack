@@ -16,6 +16,16 @@
 #2- Data type
 
 
+## Ecma Script  
+- Material to Study
+1. Template Literals
+2. Destructuring
+3. Spread Operator
+4. Array Methods and For/ Of
+5. Arrow Function
+
+
+
 
 
 
